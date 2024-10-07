@@ -1,0 +1,23 @@
+.bgcolor{
+    background-image: url(./newbg.jpg);
+    background-size: 100% 100%;
+}
+.text-white{
+    color: white;
+}
+.font{
+    font-family:serif;
+}
+.btn {
+        
+        background-color: #eb94d0;
+        background-image:  -webkit-linear-gradient(top, #eb94d0, #2079b0);  background-image: -moz-linear-gradient(top, #eb94d0, #2079b0);  background-image: -ms-linear-gradient(top, #eb94d0, #2079b0);  background-image: -o-linear-gradient(top, #eb94d0, #2079b0);  background-image: linear-gradient(to bottom, #eb94d0, #2079b0);
+        color: #ffffff;
+        text-align: center;
+      }
+#portfolio{
+    background-color: lightgrey;
+}
+.fcolor{
+    background-color: lightgray;
+}
